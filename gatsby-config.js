@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `srianbury Gatsby Default Starter`,
-    description: `a modified version of the default starter`,
+    title: `am i online`,
+    description: `Are you online?`,
     author: `srianbury`,
   },
   plugins: [
